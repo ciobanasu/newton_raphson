@@ -1,0 +1,4 @@
+﻿  newton_raphson.cpp
+c:\users\nikus\documents\visualstudioprojects\newton_raphson\newton_raphson\newton_raphson.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\nikus\documents\visualstudioprojects\newton_raphson\newton_raphson\newton_raphson.cpp(19): warning C4101: 'd': unreferenced local variable
+  newton_raphson.vcxproj -> C:\Users\nikus\Documents\VisualStudioProjects\newton_raphson\Debug\newton_raphson.exe
